@@ -1,2 +1,4 @@
-First\ term = 
-First\ term\ \! = 
+# Fuzzy
+FirstTerm = some text
+# Fuzzy
+SecondTerm = some other text
