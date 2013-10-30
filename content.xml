@@ -4,4 +4,5 @@
 <!-- Fuzzy -->
 <string name="FirstTerm">"some text"</string>
 <string name="SecondTerm">"some other text"</string>
+<string name="NewThing"></string>
 </resources>
