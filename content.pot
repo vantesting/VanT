@@ -14,3 +14,7 @@ msgstr ""
 msgid "SecondTerm"
 msgstr ""
 
+#: 
+msgid "NewThing"
+msgstr ""
+
