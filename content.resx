@@ -30,5 +30,8 @@
 <data name="SecondTerm" xml:space="preserve">
 	<value>two</value>
 </data>
+<data name="NewThing" xml:space="preserve">
+	<value></value>
+</data>
 
 </root>
