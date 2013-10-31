@@ -1,1 +1,7 @@
-a
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="FirstTerm"></string>
+<string name="SecondTerm"></string>
+<string name="NewThing"></string>
+<string name="New"></string>
+</resources>
