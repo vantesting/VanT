@@ -33,5 +33,20 @@
 <data name="NewThing" xml:space="preserve">
 	<value></value>
 </data>
+<data name="New" xml:space="preserve">
+	<value></value>
+</data>
+<data name="New number" xml:space="preserve">
+	<value></value>
+</data>
+<data name="New  3" xml:space="preserve">
+	<value></value>
+</data>
+<data name="New  5" xml:space="preserve">
+	<value></value>
+</data>
+<data name="New  55" xml:space="preserve">
+	<value></value>
+</data>
 
 </root>
