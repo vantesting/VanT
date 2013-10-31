@@ -12,7 +12,7 @@ msgstr "one"
 
 #: 
 msgid "SecondTerm"
-msgstr "two"
+msgstr ""
 
 #: 
 msgid "NewThing"
