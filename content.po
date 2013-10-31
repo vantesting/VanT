@@ -1,7 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-<string name="FirstTerm"></string>
-<string name="SecondTerm"></string>
-<string name="NewThing"></string>
-<string name="New"></string>
-</resources>
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: cu context\n"
+"Language: ab\n"
+
+#: 
+msgid "FirstTerm"
+msgstr ""
+
+#: 
+msgid "SecondTerm"
+msgstr ""
+
+#: 
+msgid "NewThing"
+msgstr ""
+
+#: 
+msgid "New"
+msgstr ""
+
+#: 
+msgid "New number"
+msgstr ""
+
+#: 
+msgid "New  3"
+msgstr ""
+
+#: 
+msgid "New  5"
+msgstr ""
+
+#: 
+msgid "New  55"
+msgstr ""
+
