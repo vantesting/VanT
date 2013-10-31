@@ -22,3 +22,11 @@ msgstr "three"
 msgid "New"
 msgstr "three"
 
+#: 
+msgid "New number"
+msgstr "three"
+
+#: 
+msgid "New  3"
+msgstr "three"
+
