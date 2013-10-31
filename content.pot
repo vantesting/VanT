@@ -18,3 +18,7 @@ msgstr "two"
 msgid "NewThing"
 msgstr "three"
 
+#: 
+msgid "New"
+msgstr "three"
+
