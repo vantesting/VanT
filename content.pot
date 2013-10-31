@@ -8,13 +8,13 @@ msgstr ""
 
 #: 
 msgid "FirstTerm"
-msgstr ""
+msgstr "one"
 
 #: 
 msgid "SecondTerm"
-msgstr ""
+msgstr "two"
 
 #: 
 msgid "NewThing"
-msgstr ""
+msgstr "three"
 
