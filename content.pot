@@ -8,7 +8,7 @@ msgstr ""
 
 #: 
 msgid "FirstTerm"
-msgstr "one"
+msgstr ""
 
 #: 
 msgid "SecondTerm"
@@ -16,25 +16,25 @@ msgstr ""
 
 #: 
 msgid "NewThing"
-msgstr "three"
+msgstr ""
 
 #: 
 msgid "New"
-msgstr "three"
+msgstr ""
 
 #: 
 msgid "New number"
-msgstr "three"
+msgstr ""
 
 #: 
 msgid "New  3"
-msgstr "three"
+msgstr ""
 
 #: 
 msgid "New  5"
-msgstr "three 6"
+msgstr ""
 
 #: 
 msgid "New  55"
-msgstr "three 6"
+msgstr ""
 
